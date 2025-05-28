@@ -40,8 +40,9 @@ export const Header: React.FC = () => {
               Logout
             </button>
           </nav>
-        )}
+        )} 
       </div>
+      <div className="logo-line"></div>
     </header>
   );
 };
